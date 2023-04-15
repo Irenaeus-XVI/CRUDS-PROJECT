@@ -25,4 +25,11 @@
 ![CRUDS - Google Chrome Sat_4_15_2023 3_12_48 AM](https://user-images.githubusercontent.com/87098443/232176047-d422395b-2111-49ba-a370-0bc184916f11.png)
 
 
+## update
+
+#### update product details
+
+![CRUDS - Google Chrome Sat_4_15_2023 3_19_03 AM](https://user-images.githubusercontent.com/87098443/232176329-cd3be6d0-50e1-44aa-877b-271769e54c35.png)
+
+![CRUDS - Google Chrome Sat_4_15_2023 3_20_19 AM](https://user-images.githubusercontent.com/87098443/232176334-a6ca1fdd-c8cb-4d3c-a0c7-d356d0329917.png)
 
