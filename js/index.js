@@ -168,7 +168,7 @@ function Validate() {
     // NOTE VALIDATE-PRODUCT-NAME
 
     function validateProductName() {
-        var regex = /^[A-Z][a-z]{3,}$/;
+        var regex = /^[A-Z][a-z]{2,}$/;
 
 
         if (regex.test(productName.value)) {
@@ -214,7 +214,7 @@ function Validate() {
     // NOTE VALIDATE-PRODUCT-DESC
 
     function validateProductDesc() {
-        var regex = /^[a-z ]{10,}$/gmi;
+        var regex = /^.{20,}$/gmi;
         if (regex.test(productDesc.value)) {
             productDescWarning.classList.replace("d-block", "d-none");
             allowedDesc = true;
