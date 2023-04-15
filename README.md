@@ -1,5 +1,7 @@
 # CRUDS-PROJECT
 
+## **Live Demo:**
+
 ## Table of contents
 
 -   [Overview](#overview)
@@ -9,6 +11,7 @@
     -   [Delete](#Delete)
     -   [Search](#Search)
     -   [Validation](#Validation)
+    -   [Technologies](#Technologies)
     
     
     
