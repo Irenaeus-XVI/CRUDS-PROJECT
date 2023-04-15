@@ -68,8 +68,8 @@
 
 
 ## Technologies
-
-##### * Html
+ 
+* ##### Html
 ##### * Css
 ##### * Bootstrap
 ##### * js
