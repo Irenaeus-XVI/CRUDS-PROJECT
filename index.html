@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUDS</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <div class="container py-5">
+
+        <div class="w-75 mx-auto py-5">
+            <h1>Product management system </h1>
+            <div class="form-group mb-3">
+                <label for="productName" class="mb-2">productName</label>
+                <input type="text" class="form-control mb-2" id="productName" placeholder="Enter the name ">
+                <p class="d-none text-danger" id="productNameWarning">Please check your input (Suppose start with
+                    Capital)</p>
+            </div>
+
+            <div class="form-group mb-3">
+                <label for="productPrice" class="mb-2">productPrice</label>
+                <input type="text" class="form-control mb-2" id="productPrice" placeholder="Enter the name ">
+                <p class="d-none text-danger" id="productPriceWarning">Price must be between (1000-10000)</p>
+            </div>
+
+            <div class="form-group mb-3">
+                <label for="productModel" class="mb-2">productModel</label>
+                <input type="text" class="form-control mb-2" id="productModel" placeholder="Enter the name ">
+                <p class="d-none text-danger" id="productModelWarning">Mode must be (TV-Mobile)</p>
+
+            </div>
+
+            <div class="form-group mb-3">
+                <label for="productDesc" class="mb-2">productDesc</label>
+                <textarea name="" id="productDesc" class="form-control mb-2"></textarea>
+                <p class="d-none text-danger" id="productDescWarning">Description must be at least (250-Char)</p>
+
+            </div>
+            <button class="btn btn-primary" id="addBTN">Add product</button>
+            <button class="btn btn-warning  d-none" id="updateBTN">Update product</button>
+
+        </div>
+
+        <div class="w-75 mx-auto py-5">
+            <h4>Search</h4>
+            <input type="text" class="form-control" id="inputSearch">
+        </div>
+
+        <table class="table text-white text-center w-75 mx-auto">
+            <thead>
+                <th>index</th>
+                <th>productName</th>
+                <th>productPrice</th>
+                <th>productCategory</th>
+                <th>productDesc</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </thead>
+
+
+            <tbody id="tbody">
+
+            </tbody>
+        </table>
+    </div>
+
+    <script src="js/index.js"></script>
+</body>
+
+</html>
