@@ -3,4 +3,10 @@
 ## Table of contents
 
 -   [Overview](#overview)
-    -   [The challenge](#the-challenge)
+    -   [Create products](#Add products)
+    -   [Retrive](#Retrive)
+    -   [update](#update)
+    -   [Delete](#Delete)
+    -   [Search](#Search)
+    
+    
