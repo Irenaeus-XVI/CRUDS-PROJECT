@@ -33,3 +33,13 @@
 
 ![CRUDS - Google Chrome Sat_4_15_2023 3_20_19 AM](https://user-images.githubusercontent.com/87098443/232176334-a6ca1fdd-c8cb-4d3c-a0c7-d356d0329917.png)
 
+
+## Delete
+
+#### Delete product form the list
+![CRUDS - Google Chrome Sat_4_15_2023 3_22_06 AM](https://user-images.githubusercontent.com/87098443/232176398-fa7d8883-6ef5-434c-962d-6f4bc58f614a.png)
+
+![CRUDS - Google Chrome Sat_4_15_2023 3_22_16 AM](https://user-images.githubusercontent.com/87098443/232176400-432c5ca9-5b15-4059-88c7-39f2c5d467bd.png)
+
+
+
