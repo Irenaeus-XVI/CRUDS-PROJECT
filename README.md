@@ -70,8 +70,8 @@
 ## Technologies
  
 * ##### Html
-##### * Css
-##### * Bootstrap
-##### * js
-##### * regex
-##### * Local Storage
+* ##### Css
+* ##### Bootstrap
+* ##### js
+* ##### regex
+* ##### Local Storage
