@@ -59,7 +59,16 @@
 
 
 
-##Validation
+## Validation
 
 ![CRUDS - Google Chrome Sat_4_15_2023 3_28_03 AM](https://user-images.githubusercontent.com/87098443/232176633-0acda32c-9ff4-4a99-a3be-bdff55acaefa.png)
 
+
+## Technologies
+
+"*"Html
+Css
+Bootstrap
+js
+regex
+Local Storage
