@@ -119,6 +119,8 @@ inputSearch.addEventListener("input", function (event) {
 })
 
 
+
+
 // NOTE UPDATE-PRODUCT
 function updateItems(index) {
     updateFormValues(productList[index]);
